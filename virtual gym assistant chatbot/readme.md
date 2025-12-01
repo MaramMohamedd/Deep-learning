@@ -24,10 +24,9 @@ GymGenie is an ***Egyption*** AI-powered virtual gym assistant that provides per
 ## 📁 Project Structure
 ```
 gymgenie/
-├── app.py              # Main Streamlit application
+├── GYM.py              # Main Streamlit application
 ├── styles.css          # Custom CSS styling
 ├── .env               # Environment variables (API keys)
-├── .gitignore         # Git ignore file
 ├── requirements.txt   # Python dependencies
 └── README.md          # This file
 ```
