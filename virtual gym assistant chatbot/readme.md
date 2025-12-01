@@ -1,4 +1,6 @@
 # GymGenie - Virtual Gym Assistant 🤖💪
+<img width="1619" height="788" alt="image" src="https://github.com/user-attachments/assets/26647ffe-f470-401f-997d-97c5fcad6e95" />
+
 
 ##  Project Overview
 GymGenie is an AI-powered virtual gym assistant that provides personalized fitness guidance, nutrition advice, and workout recommendations. Built with Google's Gemini AI and deployed via Streamlit, it serves as your 24/7 digital personal trainer.
